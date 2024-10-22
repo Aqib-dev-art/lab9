@@ -1,0 +1,28 @@
+div{
+
+    background-color: aqua;
+    
+    Width: 500px;
+    Height: 500px;
+     
+     Border-width: 3px;
+     border-color: green;
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+    }
+    
+    
+    
+    .hobies{
+        background-color: purple;
+        color : purple;
+        Width: 500px;
+    Height: 500px;
+     
+     Border-width: 3px;
+     Border-radius: 20%;
+     Margin: 10px;
+     Padding: 5px;
+    
+    }
