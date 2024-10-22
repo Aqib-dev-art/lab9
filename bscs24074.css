@@ -4,7 +4,7 @@ div{
     
     Width: 500px;
     Height: 500px;
-     
+     background-color: green;
      Border-width: 3px;
      border-color: green;
      Border-radius: 20%;
@@ -16,7 +16,7 @@ div{
     
     .hobies{
         background-color: purple;
-        color : purple;
+    
         Width: 500px;
     Height: 500px;
      
